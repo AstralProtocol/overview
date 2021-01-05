@@ -1,4 +1,4 @@
-![astralDAO](https://github.com/astralDAO/overview/blob/master/brand-identity/Logo_bg.png?raw=true)
+![astralDAO](https://github.com/astralDAO/overview/blob/master/brand-identity/Transparent-Logo-Only-Astral.png?raw=true)
 
 # [astralDAO](https://astraldao.org/)
 
